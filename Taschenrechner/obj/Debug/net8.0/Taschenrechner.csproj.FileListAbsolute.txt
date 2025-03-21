@@ -1,0 +1,14 @@
+C:\Users\fabia\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0\Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0\Taschenrechner.AssemblyInfoInputs.cache
+C:\Users\fabia\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0\Taschenrechner.AssemblyInfo.cs
+C:\Users\fabia\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\Taschenrechner\Taschenrechner\bin\Debug\net8.0\Taschenrechner.exe
+C:\Users\fabia\source\repos\Taschenrechner\Taschenrechner\bin\Debug\net8.0\Taschenrechner.deps.json
+C:\Users\fabia\source\repos\Taschenrechner\Taschenrechner\bin\Debug\net8.0\Taschenrechner.runtimeconfig.json
+C:\Users\fabia\source\repos\Taschenrechner\Taschenrechner\bin\Debug\net8.0\Taschenrechner.dll
+C:\Users\fabia\source\repos\Taschenrechner\Taschenrechner\bin\Debug\net8.0\Taschenrechner.pdb
+C:\Users\fabia\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0\Taschenrechner.dll
+C:\Users\fabia\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0\refint\Taschenrechner.dll
+C:\Users\fabia\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0\Taschenrechner.pdb
+C:\Users\fabia\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0\Taschenrechner.genruntimeconfig.cache
+C:\Users\fabia\source\repos\Taschenrechner\Taschenrechner\obj\Debug\net8.0\ref\Taschenrechner.dll
